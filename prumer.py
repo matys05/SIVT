@@ -1,6 +1,6 @@
 # SIVT
 import sys
-
+#je to marne
 cislo = sys.argv[1:]
 total = 0
 #print(cislo)
