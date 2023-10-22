@@ -1,5 +1,5 @@
 # SIVT
-#fokin hell im finished
+#fokin hell im finished, fr
 import sys
 
 cislo = sys.argv[1:]
