@@ -1,4 +1,5 @@
 # SIVT
+#fokin hell im finished
 import sys
 
 cislo = sys.argv[1:]
