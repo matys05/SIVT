@@ -16,3 +16,5 @@ for e in cislo:
 
 
 print(f'Prumer je {total/pocetcisel}')\
+
+print("Ahoj")
