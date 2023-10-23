@@ -1,6 +1,4 @@
 # SIVT
-#fokin hell im finished, fr
-#jde to dolu
 import sys
 
 cislo = sys.argv[1:]
