@@ -5,4 +5,5 @@ def hledej_mocninu(hl: int,sez: list):
     if i==moc:
       return True
   return False
+#ahoj
     
