@@ -1,5 +1,5 @@
 
-def hledej_mocninu(hl,sez):
+def hledej_mocninu(hl: int,sez: list):
   moc=hl**2
   for i in sez:
     if i==moc:
