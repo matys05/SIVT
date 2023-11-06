@@ -18,3 +18,4 @@ for e in cislo:
 print(f'Prumer je {total/pocetcisel}')\
 
 print("Ahoj")
+print("jake bude asi pocasi")
